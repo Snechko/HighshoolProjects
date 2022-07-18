@@ -1,0 +1,365 @@
+1612199266147	geckodriver	INFO	Listening on 127.0.0.1:49592
+1612199269115	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileEaijBF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612199277280	Marionette	INFO	Listening on port 49601
+1612199277511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612199277552	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612199280065	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612199339713	Marionette	INFO	Stopped listening on port 49601
+1612199678472	geckodriver	INFO	Listening on 127.0.0.1:49929
+1612199681165	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofilepNQ800"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612199691959	Marionette	INFO	Listening on port 49938
+1612199692580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612199692624	Marionette	ERROR	[15] No reply from Marionette:Register
+1612199694340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612199709605	Marionette	INFO	Stopped listening on port 49938
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612247862634	geckodriver	INFO	Listening on 127.0.0.1:56310
+1612247865595	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileCHreeK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612247869131	Marionette	INFO	Listening on port 56320
+1612247869382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612247869385	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612247869397	Marionette	ERROR	[15] No reply from Marionette:Register
+1612248098052	Marionette	ERROR	[34] No reply from Marionette:Register
+1612248922756	Marionette	INFO	Stopped listening on port 56320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612248963067	geckodriver	INFO	Listening on 127.0.0.1:57135
+1612248965802	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo2\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileCkhQbs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612248969633	Marionette	INFO	Listening on port 57144
+1612248970046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612248970051	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612248970065	Marionette	ERROR	[15] No reply from Marionette:Register
+1612249906887	Marionette	ERROR	[34] No reply from Marionette:Register
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/page-style.js:368:24\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:368:24)", "resource://devtools/shared/protocol/Front.js", 361))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1612250528406	Marionette	ERROR	[38] No reply from Marionette:Register
+1612251190629	Marionette	INFO	Stopped listening on port 57144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612251241337	geckodriver	INFO	Listening on 127.0.0.1:58552
+1612251244287	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileDswvxa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612251247606	Marionette	INFO	Listening on port 58561
+1612251248023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251248026	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612251248036	Marionette	ERROR	[15] No reply from Marionette:Register
+1612251285140	Marionette	ERROR	[34] No reply from Marionette:Register
+1612251430073	Marionette	ERROR	[38] No reply from Marionette:Register
+1612251449669	Marionette	ERROR	[40] No reply from Marionette:Register
+1612251474152	Marionette	ERROR	[44] No reply from Marionette:Register
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612253436364	Marionette	INFO	Stopped listening on port 58561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612251903038	Marionette	INFO	Listening on port 59051
+1612251903383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251903386	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612251903401	Marionette	ERROR	[4] No reply from Marionette:Register
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612251933141	Marionette	INFO	Stopped listening on port 59051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612252035608	geckodriver	INFO	Listening on 127.0.0.1:59191
+1612252038592	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofilemPoRkT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2138: TypeError: addon is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612252041863	Marionette	INFO	Listening on port 59207
+1612252042299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612252042301	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612252042316	Marionette	ERROR	[4] No reply from Marionette:Register
+1612252424491	Marionette	INFO	Stopped listening on port 59207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612253344403	geckodriver	INFO	Listening on 127.0.0.1:60086
+1612253347390	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileg5Qcnk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2138: TypeError: addon is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612253350451	Marionette	INFO	Listening on port 60095
+1612253350586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612253350589	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612253350604	Marionette	ERROR	[4] No reply from Marionette:Register
+1612253350916	Marionette	ERROR	[4] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1190: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1612253365473	Marionette	INFO	Stopped listening on port 60095
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612253389348	geckodriver	INFO	Listening on 127.0.0.1:60156
+1612253392310	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\\\App\\Firefox64\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofilemQNqrB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2138: TypeError: addon is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612253395598	Marionette	INFO	Listening on port 60165
+1612253396015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612253396017	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612253396031	Marionette	ERROR	[4] No reply from Marionette:Register
+1612254945072	Marionette	INFO	Stopped listening on port 60165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612254982085	geckodriver	INFO	Listening on 127.0.0.1:61328
+1612254985062	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofile4t9zPC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612254988347	Marionette	INFO	Listening on port 61338
+1612254988844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612254988847	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612254988858	Marionette	ERROR	[18] No reply from Marionette:Register
+1612255219097	Marionette	INFO	Stopped listening on port 61338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+irefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofile7cHig6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255203055	Marionette	INFO	Listening on port 61532
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255203301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255203305	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255203318	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1612255219758	Marionette	INFO	Stopped listening on port 61532
+1612255351786	geckodriver	INFO	Listening on 127.0.0.1:61691
+1612255354785	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileq8lz0O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255357854	Marionette	INFO	Listening on port 61700
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255358030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255358034	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255358049	Marionette	ERROR	[15] No reply from Marionette:Register
+1612255386329	Marionette	INFO	Stopped listening on port 61700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612255408582	geckodriver	INFO	Listening on 127.0.0.1:61788
+1612255411577	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileoKYlU9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255414721	Marionette	INFO	Listening on port 61797
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255414820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255414824	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255414837	Marionette	ERROR	[15] No reply from Marionette:Register
+[Parent 12412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612255492442	Marionette	INFO	Stopped listening on port 61797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612255525260	geckodriver	INFO	Listening on 127.0.0.1:61918
+1612255528254	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileO1N779"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255531415	Marionette	INFO	Listening on port 61927
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255531508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255531511	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255531524	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1612255553900	Marionette	ERROR	[34] No reply from Marionette:Register
+SourceActor threw an exception: Error: Failed to fetch https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620. Code 2147500036.
+1612255673228	Marionette	INFO	Stopped listening on port 61927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612255696181	geckodriver	INFO	Listening on 127.0.0.1:62072
+1612255699178	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileqcqSTf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255702319	Marionette	INFO	Listening on port 62088
+1612255702402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255702407	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255702423	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 2308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612255944001	Marionette	INFO	Stopped listening on port 62088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\Local\\Temp\\rust_mozprofileDbghI9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255915217	Marionette	INFO	Listening on port 62269
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612255915582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612255915585	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612255915598	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1612255946601	Marionette	INFO	Stopped listening on port 62269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612258761451	geckodriver	INFO	Listening on 127.0.0.1:64294
+1612258764429	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\flowerslacchllan\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofilefkxWH8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612258768362	Marionette	INFO	Listening on port 64304
+1612258768700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612258768704	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612258768719	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1612259070310	Marionette	INFO	Stopped listening on port 64304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+irefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileWzXMVr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612258948054	Marionette	INFO	Listening on port 64477
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612258948377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612258948381	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612258948394	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[Parent 1808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612259069282	Marionette	INFO	Stopped listening on port 64477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612259119845	geckodriver	INFO	Listening on 127.0.0.1:64630
+1612259122839	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\flowerslacchllan\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofilewbcbFk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612259126437	Marionette	INFO	Listening on port 64640
+1612259126562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612259126566	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612259126599	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 15308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612259309814	Marionette	INFO	Stopped listening on port 64640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ap\\AppData\\Local\\Temp\\rust_mozprofileROnHXv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612259201302	Marionette	INFO	Listening on port 64753
+1612259201716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612259201719	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612259201734	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1612259262797	Marionette	ERROR	[34] No reply from Marionette:Register
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1611738092232/operatordeferred_bin_base__en.js, line 107: uncaught exception: [object Object]
+1612259382662	Marionette	ERROR	[36] No reply from Marionette:Register
+1612259563789	Marionette	INFO	Stopped listening on port 64753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612260440379	geckodriver	INFO	Listening on 127.0.0.1:65512
+1612260443376	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\flowerslacchllan\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofile9dKOO6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612260447411	Marionette	INFO	Listening on port 65521
+1612260447597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612260447600	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612260447613	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 789: AbortError: Could not dispatch task to background thread
+1612260502104	Marionette	INFO	Stopped listening on port 65521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612271814055	geckodriver	INFO	Listening on 127.0.0.1:57314
+1612271817114	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileTstdYT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612271822829	Marionette	INFO	Listening on port 57323
+1612271823009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612271823015	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612271823056	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1612271880823	Marionette	ERROR	[34] No reply from Marionette:Register
+1612271901962	Marionette	ERROR	[36] No reply from Marionette:Register
+1612271915278	Marionette	INFO	Stopped listening on port 57323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612347847196	geckodriver	INFO	Listening on 127.0.0.1:51960
+1612347850118	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileRUzwsE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612347855357	Marionette	INFO	Listening on port 51969
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612347855503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612347855524	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1612347855596	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1612347903823	Marionette	ERROR	[34] No reply from Marionette:Register
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.cda4745a43ba8f44efd8.js, line 1: ChunkLoadError: Loading chunk vendors~dashjs failed.
+(error: https://www.redditstatic.com/desktop2x/vendors~dashjs.a54e4960530ae12ee2cd.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.eaee76e18d778bd81881.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.a5fadc4e0fc7f7d95e0a.js, line 1: unreachable code after return statement
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.reddit.com&rpcToken=840140056.4768864, line 1: ReferenceError: lso is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1612347979983	Marionette	INFO	Stopped listening on port 51969
+1613227715520	geckodriver	INFO	Listening on 127.0.0.1:54590
+1613227718563	mozrunner::runner	INFO	Running command: "D:\\Desktop\\channelMaker\\Channels\\demo\\App\\Firefox64\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\emoap\\AppData\\Local\\Temp\\rust_mozprofileBMcKRM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613227724713	Marionette	INFO	Listening on port 54608
+1613227725147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613227725154	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"kira.ltespace.com:15554","httpProxy":"kira.ltespace.com:15554","sslProxy":"kira.ltespace.com:15554"}
+1613227725173	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613228302171	Marionette	INFO	Stopped listening on port 54608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

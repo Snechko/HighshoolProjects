@@ -1,0 +1,5 @@
+pip install selenium
+pip install pywinauto
+pip install pyautogui
+pip install win32api
+pip install win32con
